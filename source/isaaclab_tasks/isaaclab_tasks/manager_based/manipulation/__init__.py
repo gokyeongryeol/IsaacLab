@@ -6,4 +6,3 @@
 """Manipulation environments for fixed-arm robots."""
 
 from .reach import *  # noqa
-from .piper_pick_place import *  # noqa
